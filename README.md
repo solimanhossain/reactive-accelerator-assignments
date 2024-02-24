@@ -34,6 +34,8 @@ npm install
 npm run dev
 ```
 
+> _Start API ***[(read doc)](https://github.com/Learn-with-Sumit/rnext/tree/assignment-4/api)*** before runing this project_. `npm start`
+
 ---
 
 <img src="https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/blob/main/preview/smart-grade.png?raw=true" alt="smartgrade-showcase" width="250" align="left"/>
