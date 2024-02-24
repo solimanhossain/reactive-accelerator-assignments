@@ -12,18 +12,6 @@ npm run dev
 
 ---
 
-<img src="https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/blob/main/preview/book-finder.png?raw=true" alt="book-finder" width="250" align="left"/>
-
-### Book Finder | [Code](https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/book-finder) | [Preview](https://solimanhossain-assignment-2-book-finder-app.vercel.app/) |
-
-```
-cd book-finder
-npm install
-npm run dev
-```
-
----
-
 <img src="https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/blob/main/preview/news-feeder.png?raw=true" alt="news-feeder" width="250" align="left"/>
 
 ### News Feeder | [Code](https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/news-feeder) | [Preview](https://solimanhossain-assignment-4-news-feeder.vercel.app/) |
@@ -35,6 +23,18 @@ npm run dev
 ```
 
 > _Start API ***[(read doc)](https://github.com/Learn-with-Sumit/rnext/tree/assignment-4/api)*** before runing this project_. `npm start`
+
+---
+
+<img src="https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/blob/main/preview/book-finder.png?raw=true" alt="book-finder" width="250" align="left"/>
+
+### Book Finder | [Code](https://github.com/solimanhossain/reactjs-assignments-reactive-accelerator/book-finder) | [Preview](https://solimanhossain-assignment-2-book-finder-app.vercel.app/) |
+
+```
+cd book-finder
+npm install
+npm run dev
+```
 
 ---
 
