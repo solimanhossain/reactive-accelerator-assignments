@@ -2,7 +2,7 @@
 
 ## Next JS Projects
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/shop-center.png?raw=true" alt="improve-tasker" width="250" align="left"/>
+<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/shop-center.png?raw=true" alt="shop-center" width="250" align="left"/>
 
 ### Shop Center | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/shop-center) | [Preview](https://solimanhossain-assignment-6-shop-center.vercel.app/) |
 
