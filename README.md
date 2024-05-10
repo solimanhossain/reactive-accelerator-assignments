@@ -14,6 +14,18 @@ npm run dev
 
 ---
 
+<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/khana-khazana.png?raw=true" alt="khana-khazana" width="250" align="left"/>
+
+### Shop Center | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/khana-khazana) | [Preview](https://solimanhossain-assignment-8-khana-khazana.vercel.app/) |
+
+```
+cd khana-khazana
+npm install
+npm run dev
+```
+
+---
+
 <br>
 
 ## React JS Projects
