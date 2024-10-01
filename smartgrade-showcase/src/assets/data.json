@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "classlist": "one",
+        "students": [
+            {
+                "id": 1,
+                "userid": "01",
+                "img": "./img/1.png",
+                "name": "Jhon Smith",
+                "scores": "A+",
+                "percentage": "98%"
+            },
+            {
+                "id": 2,
+                "userid": "02",
+                "img": "./img/2.png",
+                "name": "Lily Loren",
+                "scores": "A",
+                "percentage": "76%"
+            },
+            {
+                "id": 3,
+                "userid": "03",
+                "img": "./img/3.png",
+                "name": "Omal Moren",
+                "scores": "F",
+                "percentage": "25%"
+            },
+            {
+                "id": 4,
+                "userid": "04",
+                "img": "./img/4.png",
+                "name": "Ali Hasan",
+                "scores": "A+",
+                "percentage": "95%"
+            },
+            {
+                "id": 5,
+                "userid": "05",
+                "img": "./img/5.png",
+                "name": "Rohit Kumar",
+                "scores": "A+",
+                "percentage": "85%"
+            },
+            {
+                "id": 6,
+                "userid": "06",
+                "img": "./img/6.png",
+                "name": "Noman Khan",
+                "scores": "D",
+                "percentage": "42%"
+            },
+            {
+                "id": 7,
+                "userid": "07",
+                "img": "./img/7.png",
+                "name": "Sumir Ghosh",
+                "scores": "C",
+                "percentage": "55%"
+            },
+            {
+                "id": 8,
+                "userid": "08",
+                "img": "./img/8.png",
+                "name": "Ruman Islam",
+                "scores": "B",
+                "percentage": "65%"
+            },
+            {
+                "id": 9,
+                "userid": "09",
+                "img": "./img/9.png",
+                "name": "Fiza Khatun",
+                "scores": "A-",
+                "percentage": "71%"
+            },
+            {
+                "id": 10,
+                "userid": "10",
+                "img": "./img/10.png",
+                "name": "Sraboni Joya",
+                "scores": "F",
+                "percentage": "25%"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "classlist": "two",
+        "students": [
+            {
+                "id": 1,
+                "userid": "01",
+                "img": "./img/8.png",
+                "name": "Karim Khan",
+                "scores": "B",
+                "percentage": "65%"
+            },
+            {
+                "id": 2,
+                "userid": "02",
+                "img": "./img/5.png",
+                "name": "Rohit Shaha",
+                "scores": "A+",
+                "percentage": "85%"
+            },
+            {
+                "id": 3,
+                "userid": "03",
+                "img": "./img/3.png",
+                "name": "Moren Lal",
+                "scores": "F",
+                "percentage": "25%"
+            },
+            {
+                "id": 4,
+                "userid": "04",
+                "img": "./img/4.png",
+                "name": "Hasan Ali",
+                "scores": "A+",
+                "percentage": "95%"
+            },
+            {
+                "id": 5,
+                "userid": "05",
+                "img": "./img/1.png",
+                "name": "Jhon Kal",
+                "scores": "A+",
+                "percentage": "98%"
+            },
+            {
+                "id": 6,
+                "userid": "06",
+                "img": "./img/6.png",
+                "name": "Noman Islam",
+                "scores": "D",
+                "percentage": "42%"
+            },
+            {
+                "id": 7,
+                "userid": "07",
+                "img": "./img/7.png",
+                "name": "Sumir Gupto",
+                "scores": "C",
+                "percentage": "55%"
+            },
+            {
+                "id": 8,
+                "userid": "08",
+                "img": "./img/2.png",
+                "name": "Lily Marn",
+                "scores": "A",
+                "percentage": "76%"
+            },
+            {
+                "id": 9,
+                "userid": "09",
+                "img": "./img/9.png",
+                "name": "Fiza Yeasmin",
+                "scores": "A-",
+                "percentage": "71%"
+            },
+            {
+                "id": 10,
+                "userid": "10",
+                "img": "./img/10.png",
+                "name": "Sraboni Ghosh",
+                "scores": "F",
+                "percentage": "25%"
+            }
+        ]
+    }
+]

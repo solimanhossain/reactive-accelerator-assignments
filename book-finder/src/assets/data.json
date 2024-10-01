@@ -1,0 +1,66 @@
+[
+    {
+        "id" :1,
+        "name":"JavaScript and Jquery",
+        "year" :2022,
+        "writer" : "Jon Duckett",
+        "price" : 62,
+        "image" : "./books/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Clean Code",
+        "year": 2008,
+        "writer": "Robert Cecil Martin",
+        "price": 105,
+        "image": "./books/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Algorithms",
+        "year": 2014,
+        "writer": "Thomas H. Corman",
+        "price": 140,
+        "image": "./books/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Coders at Work",
+        "year": 2009,
+        "writer": "Peter Seibel",
+        "price": 205,
+        "image": "./books/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Head First Python",
+        "year": 2010,
+        "writer": "Rober Martin",
+        "price": 58,
+        "image": "./books/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript Beginner",
+        "year": 2016,
+        "writer": "Kirupa Chinnathambi",
+        "price": 84,
+        "image": "./books/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Learning TypeScript",
+        "year": 2023,
+        "writer": "Josh Goldberg",
+        "price": 73,
+        "image": "./books/7.png"
+    },
+    {
+        "id" :8,
+        "name":"Rules of Programming",
+        "year" :2022,
+        "writer" : "Chris Zimmerman",
+        "price" : 145,
+        "image" : "./books/8.jpg"
+    }
+]

@@ -2,9 +2,9 @@
 
 ## Next JS Projects
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/shop-center.png?raw=true" alt="shop-center" width="250" align="left"/>
+<img src="./preview/shop-center.png" alt="shop-center" width="250" align="left"/>
 
-### Shop Center | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/shop-center) | [Preview](https://solimanhossain-assignment-6-shop-center.vercel.app/) |
+### Shop Center | [Code](/shop-center) | [Preview](https://solimanhossain-assignment-6-shop-center.vercel.app/) |
 
 ```
 cd shop-center
@@ -14,12 +14,24 @@ npm run dev
 
 ---
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/khana-khazana.png?raw=true" alt="khana-khazana" width="250" align="left"/>
+<img src="./preview/movie-db.png" alt="movie-db" width="250" align="left"/>
 
-### Khana Khazana | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/khana-khazana) | [Preview](https://solimanhossain-assignment-8-khana-khazana.vercel.app/) |
+### Movie DB | [Code](/movie-db) | [Preview](https://solimanhossain-assignment-7-movie-db.vercel.app/) |
 
 ```
-cd khana-khazana
+cd movie-db
+npm install
+npm run dev
+```
+
+---
+
+<img src="./preview/news-api.png" alt="news-api" width="250" align="left"/>
+
+### News API | [Code](/news-api) | [Preview](https://solimanhossain-assignment-helper-news-api.vercel.app/) |
+
+```
+cd news-api
 npm install
 npm run dev
 ```
@@ -30,21 +42,11 @@ npm run dev
 
 ## React JS Projects
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/improve-tasker.png?raw=true" alt="improve-tasker" width="250" align="left"/>
-
-### Improve Tasker | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/improve-tasker) | [Preview](https://solimanhossain-assignment-3-improve-tasker.vercel.app/) |
-
-```
-cd improve-tasker
-npm install
-npm run dev
-```
-
 ---
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/news-feeder.png?raw=true" alt="news-feeder" width="250" align="left"/>
+<img src="./preview/news-feeder.png" alt="news-feeder" width="250" align="left"/>
 
-### News Feeder | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/news-feeder) | [Preview](https://solimanhossain-assignment-4-news-feeder.vercel.app/) |
+### News Feeder | [Code](/news-feeder) | [Preview](https://solimanhossain-assignment-4-news-feeder.vercel.app/) |
 
 ```
 cd news-feeder
@@ -52,13 +54,11 @@ npm install
 npm run dev
 ```
 
-> _Start API ***[(read doc)](https://github.com/Learn-with-Sumit/rnext/tree/assignment-4/api)*** before runing this project_. `npm start`
-
 ---
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/book-finder.png?raw=true" alt="book-finder" width="250" align="left"/>
+<img src="./preview/book-finder.png" alt="book-finder" width="250" align="left"/>
 
-### Book Finder | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/book-finder) | [Preview](https://solimanhossain-assignment-2-book-finder-app.vercel.app/) |
+### Book Finder | [Code](/book-finder) | [Preview](https://solimanhossain-assignment-2-book-finder-app.vercel.app/) |
 
 ```
 cd book-finder
@@ -68,9 +68,9 @@ npm run dev
 
 ---
 
-<img src="https://raw.githubusercontent.com/solimanhossain/reactive-accelerator-assignments/main/preview/smart-grade.png?raw=true" alt="smartgrade-showcase" width="250" align="left"/>
+<img src="./preview/smart-grade.png" alt="smartgrade-showcase" width="250" align="left"/>
 
-### Smart Grade Showcase | [Code](https://github.com/solimanhossain/reactive-accelerator-assignments/smartgrade-showcase) | [Preview](https://solimanhossain-assignment-1-smartgrade-showcase.vercel.app/) |
+### Smart Grade Showcase | [Code](/smartgrade-showcase) | [Preview](https://solimanhossain-assignment-1-smartgrade-showcase.vercel.app/) |
 
 ```
 cd smartgrade-showcase
