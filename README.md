@@ -28,7 +28,7 @@ npm run dev
 
 <img src="./preview/news-api.png" alt="news-api" width="250" align="left"/>
 
-### News API | [Code](/news-api) | [Preview](https://solimanhossain-assignment-helper-news-api.vercel.app/) |
+### News API | [Code](/news-api) | [Preview](https://sol-news-api.vercel.app/) |
 
 ```
 cd news-api

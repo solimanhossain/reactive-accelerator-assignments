@@ -6,7 +6,7 @@ export default function useNewsQuery(keyword) {
 
     useEffect(() => {
         let ignore = false;
-        fetch(`http://localhost:8000/v2/${keyword}`)
+        fetch(`https://sol-news-api.vercel.app/v1/${keyword}`)
             .then((response) => response.json())
             .then((json) => {
                 if (!ignore) {
